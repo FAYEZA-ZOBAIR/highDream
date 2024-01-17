@@ -105,7 +105,7 @@ const AboutUs = () => {
                 <div class="text-center px-40 mt-20">
                   <h2 class="text-3xl font-bold tracking-tight sm:text-4xl text-secondary">Our Clients</h2>
                   <p class="mt-4 text-lg leading-8 text-gray-600">
-                  Our clients comprises a diverse range of individuals, including students pursuing higher education, business professionals seeking new opportunities, remote workers, and families looking to settle in Portugal, Spain, and the UK.
+                  Our clientele comprises a diverse range of individuals, including students pursuing higher education, business professionals seeking new opportunities, remote workers, and families looking to settle in Portugal, Spain, and the UK.
                   </p>
                 </div>
             </div>
